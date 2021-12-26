@@ -1,0 +1,27 @@
+[
+  {
+    "ProductCode": 1,
+    "ProductName": "Тушенка",
+    "ProductPrice": 160
+  },
+  {
+    "ProductCode": 2,
+    "ProductName": "Молоко",
+    "ProductPrice": 55
+  },
+  {
+    "ProductCode": 3,
+    "ProductName": "Хлеб",
+    "ProductPrice": 40
+  },
+  {
+    "ProductCode": 4,
+    "ProductName": "Кефир",
+    "ProductPrice": 60
+  },
+  {
+    "ProductCode": 5,
+    "ProductName": "Мороженое",
+    "ProductPrice": 25
+  }
+]
